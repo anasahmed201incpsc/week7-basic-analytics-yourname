@@ -1,1 +1,2 @@
-# week7-basic-analytics-yourname
+# week7-basic-analytics-Anas Ahmed Ansari
+Student: Anas Ahmed Ansari 
